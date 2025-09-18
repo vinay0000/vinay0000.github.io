@@ -1,4 +1,5 @@
 # Vinay Ravindra
+[Read a brief biography of Vinay Ravindra on NASA.gov](https://www.nasa.gov/people/vinay-ravindra/)
 
 ## Publications
 Listed in reverse-chronological order.
