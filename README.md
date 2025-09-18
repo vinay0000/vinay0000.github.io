@@ -1,5 +1,5 @@
-# Vinay Ravindra
-[Read a brief biography of Vinay Ravindra on NASA.gov](https://www.nasa.gov/people/vinay-ravindra/)
+
+[Brief biography](https://www.nasa.gov/people/vinay-ravindra/)
 
 ## Publications
 Listed in reverse-chronological order.
@@ -76,13 +76,13 @@ Alan Aguila Jaramillor, Ben Gorr, **Vinay Ravindra**, Cedric David, Molly Stroud
 
 **V. Ravindra**, S. Roy Singh, M. Moghaddam, K. Nelson, R. Levinson, A. Melabari, A. Kannan, “Distributed Spacecraft with Heuristic Intelligence to Enable Logistical Decisions for Global Navigation Satellite System Reflectometry (GNSS-R) of Wildfires”, NASA Earth Science Technology Forum, Pasadena CA, June 2023.
 
-Selva, D., Allen, G.H., Gao, H., Gorr, B.J., Aguilar, A., Viros-i-Martin, A., Sun, Y., Mehta, A., **Ravindra, V.}, David, C.H. and Stroud, M., “Simulating A Context-aware Heterogeneous Sensor System for Monitoring Inland Waters and Ecosystems with 3D-CHESS”, in AGU Fall Meeting, Vol. 2022, pp. IN12C-0275, December 2022.
+Selva, D., Allen, G.H., Gao, H., Gorr, B.J., Aguilar, A., Viros-i-Martin, A., Sun, Y., Mehta, A., **Ravindra, V.**, David, C.H. and Stroud, M., “Simulating A Context-aware Heterogeneous Sensor System for Monitoring Inland Waters and Ecosystems with 3D-CHESS”, in AGU Fall Meeting, Vol. 2022, pp. IN12C-0275, December 2022.
 
 A. Melebari, S. Nag, **V. Ravindra**, M. Moghaddam, “Soil Moisture Retrieval from Multi-Instrument and Multi-Frequency Simulated Measurements in Support of Future Earth Observing Systems”, IEEE International Geoscience and Remote Sensing Symposium, Kuala Lumpur, Malaysia, July 2022
 
-Kannan, A., Tsagkatakis, G., Akbar, R., Selva, D., **Ravindra, V.}, Levinson, R., Nag, S. and Moghaddam, M., 2022, July. “Forecasting Soil Moisture Using a Deep Learning Model Integrated with Passive Microwave Retrieval”. In IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium (pp. 6112-6114). IEEE.
+Kannan, A., Tsagkatakis, G., Akbar, R., Selva, D., **Ravindra, V.**, Levinson, R., Nag, S. and Moghaddam, M., 2022, July. “Forecasting Soil Moisture Using a Deep Learning Model Integrated with Passive Microwave Retrieval”. In IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium (pp. 6112-6114). IEEE.
 
-Levinson, R., Niemoeller, S., Nag, S., **Ravindra, V.}, “Planning Satellite Swarm Measurements for Earth Science Models: Comparing Constraint Processing and MILP Methods”, Proceedings of the International Conference on Automated Planning and Scheduling, 32(1), 471-479, 2022.
+Levinson, R., Niemoeller, S., Nag, S., **Ravindra, V.**, “Planning Satellite Swarm Measurements for Earth Science Models: Comparing Constraint Processing and MILP Methods”, Proceedings of the International Conference on Automated Planning and Scheduling, 32(1), 471-479, 2022.
 
 **V. Ravindra**, R.Ketzner, S. Nag, “EO-Sim: An open-source library for design and evaluation of space observation systems; a discussion on the software design and development”, American Geophysical Union Fall Meeting, San Francisco CA, December 2021. 
 
@@ -102,17 +102,17 @@ B. Gorr, A. Aguilar, D. Selva, **V. Ravindra**, M. Moghaddam, S. Nag, “Heterog
 
 E. Sin, M. Arcak, A. S. Li, **V. Ravindra**, S. Nag, “Attitude Trajectory Optimization for Agile Satellites in Autonomous Remote Sensing Constellations”, AIAA Science and Technology Forum and Exposition (SciTech Forum), Nashville, January 2021
 
-** V. Ravindra**, S. Nag, A. S. Li, “Optimal Sensing of Tropical Cyclones by Constellation of Low Earth Orbiting Satellites, Guided by Numerical Weather Prediction Model Ensemble Track Forecasts and Assimilation of Observed/ Missed TC Center Measurements”, American Geophysical Union Fall Meeting, San Francisco CA, December 2020.
+**V. Ravindra**, S. Nag, A. S. Li, “Optimal Sensing of Tropical Cyclones by Constellation of Low Earth Orbiting Satellites, Guided by Numerical Weather Prediction Model Ensemble Track Forecasts and Assimilation of Observed/ Missed TC Center Measurements”, American Geophysical Union Fall Meeting, San Francisco CA, December 2020.
 
-S. Nag, M. Moghaddam, D. Selva, J. Frank, ** V. Ravindra**, R. Levinson, A. Azemati, A. Aguilar, A. Li, R. Akbar, “Distributed Spacecraft with Heuristic Intelligence to Enable Logistical Decisions (D-SHIELD) for Soil Moisture Monitoring”, American Geophysical Union Fall Meeting, San Francisco CA, December 2020. 
+S. Nag, M. Moghaddam, D. Selva, J. Frank, **V. Ravindra**, R. Levinson, A. Azemati, A. Aguilar, A. Li, R. Akbar, “Distributed Spacecraft with Heuristic Intelligence to Enable Logistical Decisions (D-SHIELD) for Soil Moisture Monitoring”, American Geophysical Union Fall Meeting, San Francisco CA, December 2020. 
 
-S. Nag, M. Sanchez Net, A. S. Li, ** V. Ravindra**, “Designing a Disruption Tolerant Network for Reactive Spacecraft Constellations”, AIAA ASCEND Conference, Las Vegas, November 2020.
+S. Nag, M. Sanchez Net, A. S. Li, **V. Ravindra**, “Designing a Disruption Tolerant Network for Reactive Spacecraft Constellations”, AIAA ASCEND Conference, Las Vegas, November 2020.
 
 S. Nag, M. Moghaddam, D. Selva, J. Frank, **V. Ravindra**, R. Levinson, A. Azemati, A. Aguilar, A. Li, R. Akbar, “D-SHIELD: Distributed Spacecraft with Heuristic Intelligence to Enable Logistical Decisions”, IEEE International Geoscience and Remote Sensing Symposium, Hawaii USA, July 2020.
 
 **V. Ravindra**, S. Nag, “Instrument Data Metrics Evaluator for Tradespace Analysis of Earth Observing Constellations”, IEEE Aerospace Conference, Big Sky, Montana, March 2020.
 
-S. Nag, A. S. Li, ** V. Ravindra**, M. Sanchez Net, K. Cheung, R. W. Lammers, B. P. Bledsoe, “Autonomous Scheduling of Agile Spacecraft Constellations with Delay Tolerant Networking for Monitoring Transient Precipitation and Urban Floods”, American Geophysical Union Fall Meeting, San Francisco CA, December 2019. 
+S. Nag, A. S. Li, **V. Ravindra**, M. Sanchez Net, K. Cheung, R. W. Lammers, B. P. Bledsoe, “Autonomous Scheduling of Agile Spacecraft Constellations with Delay Tolerant Networking for Monitoring Transient Precipitation and Urban Floods”, American Geophysical Union Fall Meeting, San Francisco CA, December 2019. 
 
 S. Nag, A. S. Li, **V. Ravindra**, M. Sanchez Net, K.M. Cheung, R. Lammers, B. Bledsoe, “Autonomous Scheduling of Agile Spacecraft Constellations with Delay Tolerant Networking for Reactive Imaging”, International Conference on Automated Planning and Scheduling SPARK Workshop, Berkeley CA, July 2019.
 
