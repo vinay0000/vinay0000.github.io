@@ -1,3 +1,6 @@
+<head>
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
 
 [Brief biography](https://www.nasa.gov/people/vinay-ravindra/)
 
